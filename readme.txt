@@ -6,42 +6,37 @@ A computer-aided diagnosis (CAD) desktop application for knee osteoarthritis (KO
 ## 🧠 KOA-CAD System Structure and Workflow
 
 ### 1. Knee Osteoarthritis Grading Standard
-<img src="https://raw.githubusercontent.com/osamahfaisal/CAD-system-knee-osteoarthritis-/main/figures/KOA_grades.jpg" width="800"/>
+<img src="figures/KOA_grades.jpg" width="800" />
 
 ---
 
 ### 2. Conventional Machine Learning (CVML) Pipeline
-<img src="https://raw.githubusercontent.com/osamahfaisal/CAD-system-knee-osteoarthritis-/main/figures/CVML_pipeline.png" width="800"/>
+<img src="figures/CVML_pipeline.png" width="800" />
 
 ---
 
 ### 3. Geometric Feature Extraction Module
-<img src="https://raw.githubusercontent.com/osamahfaisal/CAD-system-knee-osteoarthritis-/main/figures/Geometric%20feature%20extraction.png" width="800"/>
+<img src="figures/Geometric%20feature%20extraction.png" width="800" />
 
 ---
 
 ### 4. Deep Learning Model Architecture (CNN)
-<img src="https://raw.githubusercontent.com/osamahfaisal/CAD-system-knee-osteoarthritis-/main/figures/CNN.png" width="800"/>
+<img src="figures/CNN.png" width="800" />
 
 ---
 
 ### 5. Desktop Application – Main Graphical User Interface
-<img src="https://raw.githubusercontent.com/osamahfaisal/CAD-system-knee-osteoarthritis-/main/figures/desktop_GUI.png" width="800"/>
+<img src="figures/desktop_GUI.png" width="800" />
 
 ---
 
 ### 6. Desktop Application – KOA Severity Prediction Output
-<img src="https://raw.githubusercontent.com/osamahfaisal/CAD-system-knee-osteoarthritis-/main/figures/desktop_output_severity.png" width="800"/>
+<img src="figures/desktop_output_severity.png" width="800" />
 
 ---
 
 ### 7. Desktop Application – Image Processing Workflow
-<img src="https://raw.githubusercontent.com/osamahfaisal/CAD-system-knee-osteoarthritis-/main/figures/desktop_image_processing.png" width="800"/>
-
----
-
-### 7. Desktop Application – Image Processing Workflow
-![Desktop Image Processing](https://raw.githubusercontent.com/osamahfaisal/CAD-system-knee-osteoarthritis-/main/figures/desktop_image_processing.png)
+<img src="figures/desktop_image_processing.png" width="800" />
 
 ---
 
