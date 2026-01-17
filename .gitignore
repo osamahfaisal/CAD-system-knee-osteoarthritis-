@@ -1,0 +1,5 @@
+Models/
+Temp/
+__pycache__/
+env/
+*.exe

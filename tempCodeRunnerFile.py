@@ -1,0 +1,4 @@
+sages = ["Welcome to the KOA-CAD guide!", "Add a Radiographic knee image.", "Diagnose using Conventional methods,\n Artificial intelligence, and a Fusion of both.", "Here you can extract Features\n for your own dataset!"]
+            positions = [QPoint(int(0.02604167 * self.screen_width), int(0.091145833 * self.screen_width)), QPoint(int(0.02604167 * self.screen_width), int(0.091145833 * self.screen_width)), QPoint(int(0.15104167 * self.screen_width), int(0.091145833 * self.screen_width)), QPoint(int(0.02604167 * self.screen_width), int(0.416667 * self.screen_width))]
+            self.ex = GuideMessage(messages, positions)
+        
