@@ -16,7 +16,7 @@ A computer-aided diagnosis (CAD) desktop application for knee osteoarthritis (KO
 ---
 
 ### 3. Geometric Feature Extraction Module
-<img src="figures/Geometric%20feature%20extraction.png" width="800" />
+<img src="figures/Geomatric feature extraction.png" width="800" />
 
 ---
 
