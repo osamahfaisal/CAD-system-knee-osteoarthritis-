@@ -27,4 +27,10 @@ Instead, they are hosted on **Hugging Face Hub**.
 Hugging Face Repository:  
 https://huggingface.co/osamahabdulmahmod/Models
 
-### 📂 After downloading, place the models inside:
+### 📂 After downloading, place the models inside this project folder:
+
+Models/
+ ├── Fusion Models/
+ ├── New Ai Automated Models/
+ ├── New Conventional Models/
+ └── NewFeatureExtractionAndVisualizationModels/
