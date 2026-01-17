@@ -3,39 +3,40 @@
 A computer-aided diagnosis (CAD) desktop application for knee osteoarthritis (KOA) assessment using conventional image processing and deep learning–based models.
 
 ---
+## 🧠 KOA-CAD System Structure and Workflow
 
-## 📊 Knee Osteoarthritis Grading Standard
-![KOA Grades](figures/KOA_grades.jpg)
-
----
-
-## 🔁 Conventional Machine Learning (CVML) Pipeline
-![CVML Pipeline](figures/CVML_pipeline.png)
+### 1. Knee Osteoarthritis Grading Standard
+![KOA Grades](https://raw.githubusercontent.com/osamahfaisal/CAD-system-knee-osteoarthritis-/main/figures/KOA_grades.jpg)
 
 ---
 
-## 📐 Geometric Feature Extraction
-![Geometric Feature Extraction](figures/Geometric%20feature%20extraction.png)
+### 2. Conventional Machine Learning (CVML) Pipeline
+![CVML Pipeline](https://raw.githubusercontent.com/osamahfaisal/CAD-system-knee-osteoarthritis-/main/figures/CVML_pipeline.png)
 
 ---
 
-## 🧠 Deep Learning Model (CNN)
-![CNN Architecture](figures/CNN.png)
+### 3. Geometric Feature Extraction Module
+![Geometric Feature Extraction](https://raw.githubusercontent.com/osamahfaisal/CAD-system-knee-osteoarthritis-/main/figures/Geometric%20feature%20extraction.png)
 
 ---
 
-## 🖥️ Desktop Application – Graphical User Interface
-![Desktop GUI](figures/desktop_GUI.png)
+### 4. Deep Learning Model Architecture (CNN)
+![CNN Architecture](https://raw.githubusercontent.com/osamahfaisal/CAD-system-knee-osteoarthritis-/main/figures/CNN.png)
 
 ---
 
-## 📤 Desktop Application – Severity Output
-![Desktop Severity Output](figures/desktop_output_severity.png)
+### 5. Desktop Application – Main Graphical User Interface
+![Desktop GUI](https://raw.githubusercontent.com/osamahfaisal/CAD-system-knee-osteoarthritis-/main/figures/desktop_GUI.png)
 
 ---
 
-## 🖼️ Desktop Application – Image Processing Module
-![Desktop Image Processing](figures/desktop_image_processing.png)
+### 6. Desktop Application – KOA Severity Prediction Output
+![Desktop Severity Output](https://raw.githubusercontent.com/osamahfaisal/CAD-system-knee-osteoarthritis-/main/figures/desktop_output_severity.png)
+
+---
+
+### 7. Desktop Application – Image Processing Workflow
+![Desktop Image Processing](https://raw.githubusercontent.com/osamahfaisal/CAD-system-knee-osteoarthritis-/main/figures/desktop_image_processing.png)
 
 ---
 
