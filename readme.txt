@@ -6,32 +6,37 @@ A computer-aided diagnosis (CAD) desktop application for knee osteoarthritis (KO
 ## 🧠 KOA-CAD System Structure and Workflow
 
 ### 1. Knee Osteoarthritis Grading Standard
-![KOA Grades](https://raw.githubusercontent.com/osamahfaisal/CAD-system-knee-osteoarthritis-/main/figures/KOA_grades.jpg)
+<img src="https://raw.githubusercontent.com/osamahfaisal/CAD-system-knee-osteoarthritis-/main/figures/KOA_grades.jpg" width="800"/>
 
 ---
 
 ### 2. Conventional Machine Learning (CVML) Pipeline
-![CVML Pipeline](https://raw.githubusercontent.com/osamahfaisal/CAD-system-knee-osteoarthritis-/main/figures/CVML_pipeline.png)
+<img src="https://raw.githubusercontent.com/osamahfaisal/CAD-system-knee-osteoarthritis-/main/figures/CVML_pipeline.png" width="800"/>
 
 ---
 
 ### 3. Geometric Feature Extraction Module
-![Geometric Feature Extraction](https://raw.githubusercontent.com/osamahfaisal/CAD-system-knee-osteoarthritis-/main/figures/Geometric%20feature%20extraction.png)
+<img src="https://raw.githubusercontent.com/osamahfaisal/CAD-system-knee-osteoarthritis-/main/figures/Geometric%20feature%20extraction.png" width="800"/>
 
 ---
 
 ### 4. Deep Learning Model Architecture (CNN)
-![CNN Architecture](https://raw.githubusercontent.com/osamahfaisal/CAD-system-knee-osteoarthritis-/main/figures/CNN.png)
+<img src="https://raw.githubusercontent.com/osamahfaisal/CAD-system-knee-osteoarthritis-/main/figures/CNN.png" width="800"/>
 
 ---
 
 ### 5. Desktop Application – Main Graphical User Interface
-![Desktop GUI](https://raw.githubusercontent.com/osamahfaisal/CAD-system-knee-osteoarthritis-/main/figures/desktop_GUI.png)
+<img src="https://raw.githubusercontent.com/osamahfaisal/CAD-system-knee-osteoarthritis-/main/figures/desktop_GUI.png" width="800"/>
 
 ---
 
 ### 6. Desktop Application – KOA Severity Prediction Output
-![Desktop Severity Output](https://raw.githubusercontent.com/osamahfaisal/CAD-system-knee-osteoarthritis-/main/figures/desktop_output_severity.png)
+<img src="https://raw.githubusercontent.com/osamahfaisal/CAD-system-knee-osteoarthritis-/main/figures/desktop_output_severity.png" width="800"/>
+
+---
+
+### 7. Desktop Application – Image Processing Workflow
+<img src="https://raw.githubusercontent.com/osamahfaisal/CAD-system-knee-osteoarthritis-/main/figures/desktop_image_processing.png" width="800"/>
 
 ---
 
