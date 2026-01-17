@@ -1,36 +1,80 @@
 # Knee Osteoarthritis Diagnostic Application (KOA-CAD)
 
-## Installation Instructions
-
-1. Run `python-3.11.7.exe` from the **setup** folder to install Python 3.11.7.  
-   (Ensure you check **"Add Python.exe to PATH"** during installation.)
-
-2. Double-click `setup.bat` to install the required dependencies.  
-   (Internet connection is required.)
+A computer-aided diagnosis (CAD) desktop application for knee osteoarthritis (KOA) assessment using conventional image processing and deep learning–based models.
 
 ---
 
-## Running the Application
-
-- To run the application, double-click `run.bat`.  
-  (No internet connection is required after installation.)
+## 📊 Knee Osteoarthritis Grading Standard
+![KOA Grades](figures/KOA_grades.jpg)
 
 ---
 
-## Models
+## 🔁 Conventional Machine Learning (CVML) Pipeline
+![CVML Pipeline](figures/CVML_pipeline.png)
 
-⚠️ **Important:**  
-The trained AI models are **not included in this GitHub repository** because of their large size (~16.5 GB).  
-Instead, they are hosted on **Hugging Face Hub**.
+---
 
-### 📥 Download Models From:
-Hugging Face Repository:  
+## 📐 Geometric Feature Extraction
+![Geometric Feature Extraction](figures/Geometric%20feature%20extraction.png)
+
+---
+
+## 🧠 Deep Learning Model (CNN)
+![CNN Architecture](figures/CNN.png)
+
+---
+
+## 🖥️ Desktop Application – Graphical User Interface
+![Desktop GUI](figures/desktop_GUI.png)
+
+---
+
+## 📤 Desktop Application – Severity Output
+![Desktop Severity Output](figures/desktop_output_severity.png)
+
+---
+
+## 🖼️ Desktop Application – Image Processing Module
+![Desktop Image Processing](figures/desktop_image_processing.png)
+
+---
+
+## ⚙️ Installation Instructions
+1. Run `python-3.11.7.exe` from the **setup** folder (check **Add Python.exe to PATH**).
+2. Double-click `setup.bat` to install dependencies (internet required).
+
+---
+
+## ▶️ Running the Application
+- Double-click `run.bat` (no internet required after installation).
+
+---
+
+## 🤖 Models
+⚠️ Trained models are **not included** due to size (~16.5 GB).
+
+📥 Download from Hugging Face:  
 https://huggingface.co/osamahabdulmahmod/Models
 
-### 📂 After downloading, place the models inside this project folder:
+📂 Place models as follows:
 
 Models/
  ├── Fusion Models/
  ├── New Ai Automated Models/
  ├── New Conventional Models/
  └── NewFeatureExtractionAndVisualizationModels/
+
+
+---
+
+## 👨‍💻 Authors
+
+- **Osamah F. Abdulmahmod**  
+- **Shuaib Abdulsalam**  
+- **Mohammad Sayed**  
+- **Amr Kamal**  
+- **Bassma Alaa**
+
+### 🎓 Supervisor
+- **Prof. Ahmed M. Badawi**
+
